@@ -39,6 +39,11 @@ The goal is to identify sales trends, best-performing pizzas, and revenue driver
 
 
 
+### ✅ Tips for Recruiters
+- All SQL queries are modular and easy to understand.  
+- Dashboard is interactive and visually clear for decision-making insights.  
+- Project demonstrates skills in data analytics, SQL, and business intelligence.
+
 
 
 
