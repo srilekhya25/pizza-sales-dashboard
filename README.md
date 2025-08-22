@@ -26,13 +26,14 @@ The goal is to identify sales trends, best-performing pizzas, and revenue driver
 - **Images/**: Dashboard screenshots for quick view
 
 ## 📸 Dashboard Preview
-![Dashboard Page 1](Images/pizza_sales_dashboard_overview_1.png)
-![Dashboard Page 2](Images/pizza_sales_dashboard_overview_2.png)
+![Dashboard Page 1](Dashboard%20Screenshots/pizza_sales_dashboard_overview_1.png)
+![Dashboard Page 2](Dashboard%20Screenshots/pizza_sales_dashboard_overview_2.png)
 
 
 ## 🚀 How to Use
 1. Open the `.pbix` file in Power BI Desktop  
 2. Run SQL scripts on your MySQL database for calculations  
 3. Refresh the dataset in Power BI to see the visuals
+
 
 
